@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Editar Mysql mediante Funcion</title>
+<title>Projecta de Sergi Miró</title>
 <link type="text/css" href="bootstrap.min.css" rel="stylesheet">
 <link type="text/css" href="style.css" rel="stylesheet">
 </head>
